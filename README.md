@@ -2,10 +2,13 @@
 Because the name is 'Starkrieg', get it?
 
 ## Who are you?
-I'm a README.md file written by a Software engineer with a dozen or so years of experience. 
-You need a Backend dev, a tech leader for your team, a full-blown architect for your product, your next CTO? That's your guy!
+I'm a README.md file written by a Software engineer with a dozen or so years of experience.  
+
+You need a Backend dev, a tech leader for your team, a full-blown architect for your product, your next CTO? That's your guy!  
+He can also consult if have specific needs.  
 
 But how can this be proved to you? LeetCode? LiveCoding interviews? By now we should all agree that real-world experience is more than just one-off online tests.
+
 
 Real world software engineering is about:
 - Analyzing what gaps a product has and what should be focused first on the short and long term
@@ -19,9 +22,13 @@ Real world software engineering is about:
 - Being mindful of business constraints, such as: cashflow, market trends, time to market on products, and bottomline
 - Staying on top of new trends and being aware of recent developments
 
-So let's get a coffee and talk about real world software engineering issues.
+<br/>
+So let's get a coffee and talk about real world software engineering, free of charge!
 
+
+___
 "Software is engineered based on it's constraints, such as time or availability of resources. And constraints are what put our creativity and ingenuity to work. To solve a known problem in a new way, to envision a new technology or product, to improve lives and provide new experiences; that's what engineering software is all about." - Me
+___
 
 ## Stack
 
