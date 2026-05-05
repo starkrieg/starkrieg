@@ -1,30 +1,24 @@
 ## Hi there 👋 and welcome to this side of the stars 
 Because the name is 'Starkrieg', get it?
 
-## Who are you?
+## Who am I?
 I'm a README.md file written by a Software engineer with a dozen or so years of experience.  
 
 You need a Backend dev, a tech leader for your team, a full-blown architect for your product, your next CTO? That's your guy!  
 He can also consult if have specific needs.  
 
-But how can this be proved to you? LeetCode? LiveCoding interviews? By now we should all agree that real-world experience is more than just one-off online tests.
-
-
-Real world software engineering is about:
-- Analyzing what gaps a product has and what should be focused first on the short and long term
-- Doing PoCs on techs you never worked with, discussing trade-offs of a tech stack, and evaluating reports
-- Discussing trade-offs of a strategic decisions, and supporting temporary and non-perfect solutions
-- Evaluating skill level of colleagues, what gaps they have, and their suitability for specific tasks
-- Developing code, diagrams, reports and auditable docs about features, bug fixes, security patches and product evolution
-- Adapting to new people and new code on a regular basis, as software is always changing and people too
-- Taking ownership and leading initiatives and teams, even when you feel unprepared.
-- Being a solid rock, centered on facts and data, and capable of supporting your team and leadership
-- Being mindful of business constraints, such as: cashflow, market trends, time to market on products, and bottomline
-- Staying on top of new trends and being aware of recent developments
+Some of my experiences:
+- Owning, fixing and improving features and code that others refuse to touch
+- Analyzing product gaps and defining short- and long-term goals
+- Planning and executing PoCs on tech stacks
+- Discussions over trade-offs for tech stacks and development direction, under constraints of time, resources, legacy code and business long-term goals
+- CI/CD management, Dev Exp, SBOM, Security assessments and patching, version rollout and customer support
+- Writing product documentation and manuals; Training personnel on feature use and troubleshooting
+- Team management, mentoring, performance tracking and review  
 
 <br/>
-So let's get a coffee and talk about real world software engineering, free of charge!
-
+Invite me for coffee and let's talk, I might be just what you are looking for. First time is free of charge!
+<br/>
 
 ___
 "Software is engineered based on it's constraints, such as time or availability of resources. And constraints are what put our creativity and ingenuity to work. To solve a known problem in a new way, to envision a new technology or product, to improve lives and provide new experiences; that's what engineering software is all about." - Me
@@ -32,11 +26,21 @@ ___
 
 ## Stack
 
-### Fluent
-...
+### Experient
+Languages: Java, Spring, Hibernate, SQL, PLSQL  
+Databases: Oracle  
+DevOps & Platform: Docker, CI/CD  
+Methods: Agile, Scrum, Kanban, Event-Driven, Serverless  
 
-### Novice
-...
+### Dabbled
+Languages: C#, Python, JavaScript, HTML, CSS  
+Databases: MySql, SQL Server  
+DevOps & Platform: AWS, Terraform, Kafka, RabbitMQ, Redis, Bash, K8S, Helm  
+
+### Novice/One-off uses
+Languages: TypeScript  
+Databases: Postgres  
+DevOps & Platform: ArgoCD  
 
 <!--
 **starkrieg/starkrieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
